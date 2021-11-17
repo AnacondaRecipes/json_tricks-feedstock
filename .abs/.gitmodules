@@ -1,0 +1,12 @@
+[submodule "json_tricks-feedstock"]
+    path = include/foo
+    branch = initial_build
+	url = ../json_tricks-feedstock
+
+
+[submodule "json_tricks-feedstocks2"]
+    path = include/foo
+    branch = master
+    url = "../json_tricks-feedstock"
+
+
