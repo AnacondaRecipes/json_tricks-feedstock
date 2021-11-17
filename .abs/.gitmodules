@@ -3,3 +3,8 @@
 	url = git://json_tricks-feedstock
     branch = initial_build
 
+[submodule "json_tricks-feedstock"]
+	path = include/foo
+	url = git://json_tricks-feedstock
+    branch = master
+
